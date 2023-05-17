@@ -1,0 +1,10 @@
+C:\Users\305-8\Desktop\Колупаев\Workers\bin\Debug\Workers.exe.config
+C:\Users\305-8\Desktop\Колупаев\Workers\bin\Debug\Workers.exe
+C:\Users\305-8\Desktop\Колупаев\Workers\bin\Debug\Workers.pdb
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.exe
+C:\Users\305-8\Desktop\Колупаев\Workers\obj\Debug\Workers.pdb

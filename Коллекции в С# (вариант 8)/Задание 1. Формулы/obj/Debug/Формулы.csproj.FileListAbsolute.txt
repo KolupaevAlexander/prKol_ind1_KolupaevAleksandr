@@ -1,0 +1,7 @@
+C:\Users\305-8\Desktop\Колупаев\Формулы\bin\Debug\Формулы.exe.config
+C:\Users\305-8\Desktop\Колупаев\Формулы\bin\Debug\Формулы.exe
+C:\Users\305-8\Desktop\Колупаев\Формулы\bin\Debug\Формулы.pdb
+C:\Users\305-8\Desktop\Колупаев\Формулы\obj\Debug\Формулы.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Колупаев\Формулы\obj\Debug\Формулы.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Колупаев\Формулы\obj\Debug\Формулы.exe
+C:\Users\305-8\Desktop\Колупаев\Формулы\obj\Debug\Формулы.pdb
